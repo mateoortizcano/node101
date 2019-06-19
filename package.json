@@ -1,0 +1,22 @@
+{
+  "name": "node-ejemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateoortizcano/node101.git"
+  },
+  "author": "Mateo Ortiz Cano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateoortizcano/node101/issues"
+  },
+  "homepage": "https://github.com/mateoortizcano/node101#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
