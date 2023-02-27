@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mateoortizcano/node101#readme",
   "dependencies": {
-    "cowsay": "^1.4.0"
+    "cowsay": "^1.5.0"
   }
 }
